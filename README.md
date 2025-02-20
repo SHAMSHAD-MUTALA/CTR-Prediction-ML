@@ -70,7 +70,7 @@ This project uses **Machine Learning (Random Forest Classifier)** to predict whe
 
 ## 🔗 Project Links
 
-📂 **GitHub Repository:** [Your Repository](https://github.com/your-repo)
+📂 **GitHub Repository:** [Your Repository](https://github.com/SHAMSHAD-MUTALA/CTR-Prediction-ML.git)
 
 🎥 **Project Demo:** [Watch Video](https://drive.google.com/file/d/1BaHoIJqFeUFECbbPzwUBlBYQ-JpggKu3/view?usp=sharing)
 
