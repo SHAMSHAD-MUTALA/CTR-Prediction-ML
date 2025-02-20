@@ -1,5 +1,5 @@
 # CTR-Prediction-ML
-# 📊 Click-Through Rate (CTR) Prediction Using Machine Learning 🚀
+📊 Click-Through Rate (CTR) Prediction Using Machine Learning 🚀
 
 ## 📖 About the Project
 In the digital advertising world, **Click-Through Rate (CTR) Prediction** is crucial for **maximizing ad revenue, optimizing user engagement, and reducing wasted ad spend**.  
