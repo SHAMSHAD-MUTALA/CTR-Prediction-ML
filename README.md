@@ -69,8 +69,12 @@ This project uses **Machine Learning (Random Forest Classifier)** to predict whe
 ---
 
 ## 🔗 Project Links
-📂 **GitHub Repository:**  
-🎥 **Project Demo:** [Watch Video]([https://your-demo-link.com](https://drive.google.com/file/d/1BaHoIJqFeUFECbbPzwUBlBYQ-JpggKu3/view?usp=sharing))
+
+📂 **GitHub Repository:** [Your Repository](https://github.com/your-repo)
+
+🎥 **Project Demo:** [Watch Video](https://drive.google.com/file/d/1BaHoIJqFeUFECbbPzwUBlBYQ-JpggKu3/view?usp=sharing)
+
+#MachineLearning #AI #AdTech #ClickThroughRate #DataScience #Internship
 
 
 #MachineLearning #AI #AdTech #ClickThroughRate #DataScience #Internship  
